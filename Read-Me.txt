@@ -1,0 +1,5 @@
+#http://localhost:8761/- To access eureka
+#http://127.0.0.1:9411/ - Zipkin dashboard
+
+#http://localhost:8081/hystrix - Open hystrix through this URL and then paste the actuator url given below
+#http://localhost:8080/actuator/hystrix.stream
